@@ -8,7 +8,7 @@
   I thrive in the world of JAVA, and I'm on a mission to create vibrant and impactful Applications.
 
   What I bring to the canvas:
-  💻 JAVA, C++, C#, Python, Dart
+  💻 JAVA, C++, C#, PHP
 
   Currently blossoming with:
   🚀 I'm always eager to learn and stay up-to-date with the latest technologies. Currently, I'm exploring Python & Dart.
